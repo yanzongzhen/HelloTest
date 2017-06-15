@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>关于极客易联</title>
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<div id="main">
+		<img  src="images/logo.png" width="320px">
+		<div id="content">
+			<h2><a href="index.html">首页</a>>>关于极客易联</h2>
+			<div class="back_pre">
+				<a href="javascript:history.back()">
+				<img src="images/back.gif" width="15" height="15" align="absmiddle">回上页</a>
+			</div>
+			<div>
+				<h3><span class="web">联系方式：18263380210</span></h3>
+				<div><img id="xiaologo" src="images/rss_16.png">About US</div>
+			</div>
+			<table border="0" cellspacing="1" cellpadding="0">
+				<tr>
+					<td width="10%" valign="top"><img src="images/digg_16.png"></td>
+					<td width="90%" valign="top">极客易联创客空间</td>
+				</tr>
+				<tr>
+					<td width="10%" valign="top"><img src="images/digg_16.png"></td>
+					<td width="90%" valign="top">我们的口号：创你所想，极客易联</td>
+				</tr>
+				<tr>
+					<td width="10%" valign="top"><img src="images/digg_16.png"></td>
+					<td width="90%" valign="top">我们这里最新的电子资讯，最全的电子教程</td>
+				</tr>
+				<tr>
+					<td width="10%" valign="top"><img src="images/digg_16.png"></td>
+					<td width="90%" valign="top">极客易联欢迎您的到来</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</body>
+</html>
